@@ -11,7 +11,7 @@ Parametric OpenSCAD recreation of a printed tray, built from caliper measurement
 
 Anything not in that table (wall/floor thickness, finger size, hole size) is estimated — edit the variables at the top of `holder.scad` (or use OpenSCAD's Customizer).
 
-Files: `holder.scad` (source), `base.stl`, `slider.stl`, `preview.png`.
+Files: `holder.scad` (source — set `part` to base, slider, all or assembled), `base.stl`, `slider.stl`, `preview.png` (render of the model).
 Print flat, floor down, no supports. Use `clr` to tune slider fit.
 
 ## Original part photos
