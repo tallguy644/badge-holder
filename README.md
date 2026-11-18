@@ -13,3 +13,7 @@ Anything not in that table (wall/floor thickness, finger size, hole size) is est
 
 Files: `holder.scad` (source), `base.stl`, `slider.stl`, `preview.png`.
 Print flat, floor down, no supports. Use `clr` to tune slider fit.
+
+## Original part photos
+Reference photos of the real part with caliper readings are in [`photos/`](photos/).
+`preview.png` is a render of the recreated model, not a photo.
